@@ -8,7 +8,7 @@ Your contributions are more than welcome!
 ## Development
 
 1. [Set up Jekyll](https://help.github.com/articles/setting-up-your-github-pages-site-locally-with-jekyll/)
-2. Use `bundle exec jekyll serve` to locally build and preview your Jekyll site
+2. Use `bundle exec jekyll serve --watch` to locally build and preview your Jekyll site
 3. Use `bundle update` to update the Ruby github-pages and jekyll gems
 
 

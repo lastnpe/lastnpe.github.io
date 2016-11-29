@@ -1,15 +1,25 @@
 # Site settings
-title: Your awesome title
-email: your-email@domain.com
+title: lastNPE.org - your last NullPointerException
+# email: your-email@domain.com
 description: > # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+  Develop NullPointerException free Java code with null analysis from Eclipse.
 baseurl: "" # the subpath of your site, e.g. /blog/
-url: "http://yourdomain.com" # the base hostname & protocol for your site
-twitter_username: jekyllrb
-github_username:  jekyll
+url: "http://www.lastnpe.org"
+twitter_username: vorburger
+github_username:  lastnpe
 
 # Build settings
 markdown: kramdown
+permalink: pretty
 
+# https://help.github.com/articles/configuring-jekyll/
+#github: [metadata]
+# kramdown:
+#   input: GFM
+#   hard_wrap: false
+# gems:
+#   - jekyll-coffeescript
+#   - jekyll-paginate
+
+# TODO
+# pygments: true
