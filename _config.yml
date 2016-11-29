@@ -23,5 +23,8 @@ google_analytics: UA-88193261-1
 #   - jekyll-coffeescript
 #   - jekyll-paginate
 
+# https://jekyllrb.com/docs/continuous-integration/
+exclude: [vendor]
+
 # TODO
 # pygments: true
