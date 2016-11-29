@@ -12,6 +12,7 @@ github_username:  lastnpe
 markdown: kramdown
 permalink: pretty
 theme: minima
+google_analytics: UA-88193261-1
 
 # https://help.github.com/articles/configuring-jekyll/
 #github: [metadata]
