@@ -95,6 +95,7 @@ GEM
       rb-inotify (~> 0.9, >= 0.9.7)
     maruku (0.7.0)
     mercenary (0.3.6)
+    minima (2.0.0)
     minitest (5.9.1)
     multipart-post (2.0.0)
     net-dns (0.8.0)
@@ -139,6 +140,7 @@ PLATFORMS
 
 DEPENDENCIES
   github-pages
+  minima
   therubyracer
 
 BUNDLED WITH
