@@ -5,7 +5,9 @@ sudo: false # route your build to the container-based infrastructure for a faste
 language: ruby
 
 rvm:
-- 2.2.5
+- 2.3.1
+
+install: bundle install
 
 script: ./.travis.sh
 

@@ -14,6 +14,21 @@ Your contributions are more than welcome!
 
 ## Troubleshooting
 
+Use `rm -rf .bundle/ vendor/ ; git clean -fX` to solve this problem if it occurs locally:
+
+```
+Your Gemfile.lock is corrupt. The following gem is missing from the DEPENDENCIES section: 'mini_portile2'
+
+```
+
+and if it occurs on Tracis CI then add `install: bundle install` to `.travis.yml`
+and git rm Gemfile.lock && echo "Gemfile.lock" >>.gitignore;
+needed because its default is `bundle install --jobs=3 --retry=3 --deployment`,
+the `--deployment` if a `Gemfile.lock` exists,
+see https://docs.travis-ci.com/user/languages/ruby/#Travis-CI-uses-Bundler,
+and that is causing some issues, see https://github.com/bundler/bundler/issues/4467.
+
+
 Use `sudo dnf install ruby-devel` to solve this problem:
 
 ```
