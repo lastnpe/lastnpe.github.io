@@ -11,7 +11,7 @@ for [common libraries](https://github.com/lastnpe/eclipse-null-eea-augments/tree
 2. regularly [publishes those EEA to Maven central](https://repo1.maven.org/maven2/org/lastnpe/eea/)
 3. offers [an Eclipse plugin to extend M2E for EEA](https://github.com/lastnpe/eclipse-external-annotations-m2e-plugin)
 4. show cases [example projects](https://github.com/lastnpe/eclipse-null-eea-augments/tree/master/examples/maven)
-5. provides [some slides](https://www.slideshare.net/mikervorburger/the-end-of-the-world-as-we-know-it-aka-your-last-nullpointerexception-1b-bugs) and [README](https://github.com/lastnpe/eclipse-null-eea-augments/blob/master/README.md) documentation
+5. links to [these slides](https://www.slideshare.net/mikervorburger/the-end-of-the-world-as-we-know-it-aka-your-last-nullpointerexception-1b-bugs) as well as [those slides](https://www.eclipsecon.org/europe2017/sites/default/files/slides/nullannotations-eclipsecon2017_0.pdf) and this [README](https://github.com/lastnpe/eclipse-null-eea-augments/blob/master/README.md) documentation
 6. is [an open source community](https://www.redhat.com/en/open-source)
 7. we [chat on #jdt-null-analysis at mattermost.eclipse.org](https://mattermost.eclipse.org/eclipse/channels/jdt-null-analysis) - see you there?
 8. are very open to welcome new contributors!
