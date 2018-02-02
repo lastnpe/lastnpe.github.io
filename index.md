@@ -15,3 +15,4 @@ for [common libraries](https://github.com/lastnpe/eclipse-null-eea-augments/tree
 6. is [an open source community](https://www.redhat.com/en/open-source)
 7. we [chat on #jdt-null-analysis at mattermost.eclipse.org](https://mattermost.eclipse.org/eclipse/channels/jdt-null-analysis) - see you there?
 8. are very open to welcome new contributors!
+9. links to [other null analysis related projects](/other-nonull/).
