@@ -13,3 +13,4 @@ Here are some of the other than [the Eclipse-based](..) null analysis related th
 * [Error Prone](http://errorprone.info/bugpatterns)'s null related checks (for a few specific cases)
 * SpotBugs / FindBugs (simplistic)
 * [JSpecify](https://jspecify.dev) standarized nullable annotations
+* [vegardit/no-npe](https://github.com/vegardit/no-npe) Very similar to this
